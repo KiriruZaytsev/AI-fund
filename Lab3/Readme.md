@@ -4,7 +4,7 @@
 
 ### TPE sampler + Hyperband pruner
 
-![image info](../img/TPE1.jpg)
+![image info](./img/TPE1.jpg)
 
-![image info](../img/TPE2.jpg)
+![image info](./img/TPE2.jpg)
 
