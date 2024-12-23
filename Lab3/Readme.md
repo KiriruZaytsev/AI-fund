@@ -2,6 +2,14 @@
 
 ## Графики Optuna
 
+Графики были получены с помощью Optuna dashboard. 
+
+Для подключения к дашборду нужно ввести:
+
+```
+optuna-dashboard postgresql://optuna_user:12345@localhost/optuna_db
+```
+
 ### TPE sampler + Hyperband pruner
 
 ![image info](./img/TPE1.jpg)
